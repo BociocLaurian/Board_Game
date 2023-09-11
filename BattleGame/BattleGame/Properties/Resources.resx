@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="abilityTextTitle" xml:space="preserve">
+    <value>Abilities Costs</value>
+  </data>
+  <data name="aboutGameText" xml:space="preserve">
+    <value>• Battle Board este este un  joc de tipul PvP (player vs player ) ce se înscrie prin construcție în sfera jocurilor de tip board game.
+
+• Tabla de joc este formată din 64 de căsuțe cu valori pozitive cât  și negative.
+• Tematica jocului o reprezintă lupta dintre foc și gheață astfel jucătorul din partea roșie deține valorile pozitive iar jucătorul din partea albastră le deține pe cele negative.
+
+• Fiecare jucător are la dispoziție 5 abilități prin care să cucerească tabla de joc. Fiecare abilitate oferind o serie de strategii în special cele speciale. In momentul in care se selecteaza o căsuta din tabla de joc cele 5 abilitați apar. Fiecare abilitatea are un cost de utilizare. Abilitatea și căsuta cu valoare se selectează cu un Click Stânga).
+
+• Durata unei ture este determinată de un timer.
+
+• Rezultatul jocului este determinat de "temperatura finală"(scorul) obținul.
+</value>
+  </data>
+  <data name="basicAbilityText" xml:space="preserve">
+    <value>• În imaginea de mai sus sunt ilustrate cele 3 abilități Basic, în cazul de față sunt cele ale părții Red. In momentul în care folosim o abilitate valoarea căsuței de pe tabla de joc se modifică cu valoarea selectată. Deasupra fiecărei abilitate avem afișat costul acesteia. </value>
+  </data>
+  <data name="blueSide" xml:space="preserve">
+    <value>Blue Side</value>
+  </data>
+  <data name="blueSideLbl" xml:space="preserve">
+    <value>Player's Name</value>
+  </data>
+  <data name="blueSpecialAbility2Text" xml:space="preserve">
+    <value>-2/area</value>
+  </data>
+  <data name="blueSpecialAbilityText" xml:space="preserve">
+    <value>-3/area</value>
+  </data>
+  <data name="celsiusSign" xml:space="preserve">
+    <value>°C</value>
+  </data>
+  <data name="energyTypeLbl" xml:space="preserve">
+    <value>Energy Types</value>
+  </data>
+  <data name="entryGameWindowMessage" xml:space="preserve">
+    <value>In order to enter the battle both player's must choose their names !</value>
+  </data>
+  <data name="extraBtnTxt" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="extraPageTxt" xml:space="preserve">
+    <value>Universitatea din Oradea
+Facultatea de Științe
+Domeniul Informatică
+Specializarea Informatică
+Licență
+
+Aplicația este asociată cu lucrarea de licență
+a absolventului Bocioc Gabriel Laurian
+
+Titlul lucrării
+Aplicație vizuală în .NET
+     (Battle Board)
+
+Coordonator Științific
+Lect. univ. dr. Laslo Eugen
+
+            Oradea
+              2019
+</value>
+  </data>
+  <data name="finalCasesText" xml:space="preserve">
+    <value>• Jocul se poate termina în 2 moduri. În primul caz unul dintre jucători ajunge la "temperatura necesară(scor &gt;=42 pentru Red,  -42 pentru Blue). Al doilea caz se evaluează scorul după ce toate căsutele/pătrătelele de pe tabla de joc au fost cucerite. </value>
+  </data>
+  <data name="gameDifficultyText" xml:space="preserve">
+    <value>Select Game Difficulty</value>
+  </data>
+  <data name="gameTitle" xml:space="preserve">
+    <value>Battle Board</value>
+  </data>
+  <data name="highBlueEffect" xml:space="preserve">
+    <value>Effect: -10</value>
+  </data>
+  <data name="highRedEffect" xml:space="preserve">
+    <value>Effect: +10</value>
+  </data>
+  <data name="instrBtnText" xml:space="preserve">
+    <value>Instructions</value>
+  </data>
+  <data name="lobbyBtnText" xml:space="preserve">
+    <value>Lobby</value>
+  </data>
+  <data name="lowBlueEffect" xml:space="preserve">
+    <value>Effect: - 2</value>
+  </data>
+  <data name="lowRedEffect" xml:space="preserve">
+    <value>Effect: + 2</value>
+  </data>
+  <data name="medBlueEffect" xml:space="preserve">
+    <value>Effect: - 5</value>
+  </data>
+  <data name="medRedEffect" xml:space="preserve">
+    <value>Effect: + 5</value>
+  </data>
+  <data name="passTurnBtnText" xml:space="preserve">
+    <value>Pass Turn</value>
+  </data>
+  <data name="redSide" xml:space="preserve">
+    <value>Red Side</value>
+  </data>
+  <data name="redSideLbl" xml:space="preserve">
+    <value>Player's Name</value>
+  </data>
+  <data name="redSpecialAbility2Text" xml:space="preserve">
+    <value>+2/area</value>
+  </data>
+  <data name="redSpecialAbilityText" xml:space="preserve">
+    <value>+3/area</value>
+  </data>
+  <data name="resetBtnText" xml:space="preserve">
+    <value>Reset Game</value>
+  </data>
+  <data name="scoreLbl" xml:space="preserve">
+    <value>Score:</value>
+  </data>
+  <data name="special1Text" xml:space="preserve">
+    <value>• Pătratul cu bordura galbenă reprezintă căsuța selectată din tabla de joc , iar căsuțele roșii/albastre reprezintă pătratele ce-și vor modifica valoare în functie de jucător.(Ex. in tura lui Red toate pătratele roșii vor primi valoarea +2).
+• La fel funcționeaza și pentru Blue doar că va primi valoarea -2.</value>
+  </data>
+  <data name="special2Text" xml:space="preserve">
+    <value>• Pătratul cu bordura galbenă reprezintă căsuța selectată din tabla de joc , iar căsuțele roșii/albastre reprezintă pătratele ce-și vor modifica valoare în functie de jucător.(Ex. in tura lui Red toate pătratele roșii vor primi valoarea +3).
+• Extra-Dacă pătratul cu bordura galbenă are o valoarea pozitivă Red va mai primi +3.</value>
+  </data>
+  <data name="startBtnText" xml:space="preserve">
+    <value>Enter Battle</value>
+  </data>
+  <data name="surrenderBtnText" xml:space="preserve">
+    <value>Surrender</value>
+  </data>
+  <data name="turnLblStr" xml:space="preserve">
+    <value>'s Turn</value>
+  </data>
+  <data name="turnPhasesText" xml:space="preserve">
+    <value>• La începutul fiecărei ture jucătorul va primi o energie din cele 3 energii disponibile. Energii sunt de 3 tipuri High (HE), Medium (ME) și Low (LE). Probabilitatea obținerii acestora diferă astfel că cele High vor avea o rată de obținere mai mică.
+
+• In functie de decizia jucătorului se poate alege să  se folosească această energie pe o abilitate sau poate alege să nu facă nimic ( prin butonul Pass Turn).
+
+• In momentul in care se foloseste o abilitate se va pierde energia folosită.
+
+• Tura se termină în momentul în care se termină durata din timer sau după capturarea unei căsute din tabla de joc de către unul dintre jucători.</value>
+  </data>
+</root>

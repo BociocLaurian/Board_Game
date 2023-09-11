@@ -1,0 +1,19 @@
+Universitatea din Oradea
+Facultatea de ?tiin?e
+Domeniul Informatica
+Specializarea Informatica
+Licen?a
+
+Aplica?ia este asociatacu lucrarea de licen?a 
+a absolventului Bocioc Gabriel Laurian
+
+Titlul lucrarii
+
+Aplica?ie vizuala în .NET
+     (Battle Board)
+
+Coordonator ?tiin?ific
+Lect. univ. dr. Laslo Eugen
+
+Oradea
+2019

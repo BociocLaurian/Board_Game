@@ -1,0 +1,234 @@
+D:\Licenta\BattleGame\BattleGame\BattleGame\bin\Debug\BattleGame.exe.config
+D:\Licenta\BattleGame\BattleGame\BattleGame\bin\Debug\BattleGame.exe
+D:\Licenta\BattleGame\BattleGame\BattleGame\bin\Debug\BattleGame.pdb
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\BattleGame.csprojResolveAssemblyReference.cache
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\MainWindow.g.cs
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\App.g.cs
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.cache
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.lref
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\MainWindow.baml
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\BattleGame.g.resources
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\BattleGame.Properties.Resources.resources
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.GenerateResource.Cache
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.CoreCompileInputs.cache
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\BattleGame.exe
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\BattleGame.pdb
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\Instruction.g.cs
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\Instruction.baml
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\Game.g.cs
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\Game.baml
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.g.cs
+D:\Licenta\BattleGame\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.baml
+F:\Licenta\BattleGame\BattleGame\bin\Debug\BattleGame.exe.config
+F:\Licenta\BattleGame\BattleGame\bin\Debug\BattleGame.exe
+F:\Licenta\BattleGame\BattleGame\bin\Debug\BattleGame.pdb
+F:\Licenta\BattleGame\BattleGame\obj\Debug\Game.g.cs
+F:\Licenta\BattleGame\BattleGame\obj\Debug\Instruction.g.cs
+F:\Licenta\BattleGame\BattleGame\obj\Debug\MainWindow.g.cs
+F:\Licenta\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.g.cs
+F:\Licenta\BattleGame\BattleGame\obj\Debug\App.g.cs
+F:\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.cache
+F:\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.lref
+F:\Licenta\BattleGame\BattleGame\obj\Debug\Game.baml
+F:\Licenta\BattleGame\BattleGame\obj\Debug\Instruction.baml
+F:\Licenta\BattleGame\BattleGame\obj\Debug\MainWindow.baml
+F:\Licenta\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.baml
+F:\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame.g.resources
+F:\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame.Properties.Resources.resources
+F:\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.GenerateResource.Cache
+F:\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.CoreCompileInputs.cache
+F:\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame.exe
+F:\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame.pdb
+D:\Licenta\Game1.2\BattleGame\BattleGame\bin\Debug\BattleGame.exe.config
+D:\Licenta\Game1.2\BattleGame\BattleGame\bin\Debug\BattleGame.exe
+D:\Licenta\Game1.2\BattleGame\BattleGame\bin\Debug\BattleGame.pdb
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\Game.g.cs
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\Instruction.g.cs
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\MainWindow.g.cs
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.g.cs
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\App.g.cs
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.cache
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.lref
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\Game.baml
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\Instruction.baml
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\MainWindow.baml
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.baml
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\BattleGame.g.resources
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\BattleGame.Properties.Resources.resources
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.GenerateResource.Cache
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.CoreCompileInputs.cache
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\BattleGame.exe
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\BattleGame.pdb
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\BattleGame.csprojResolveAssemblyReference.cache
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\UserControls\UpdateChosenSquare.g.cs
+D:\Licenta\Game1.2\BattleGame\BattleGame\obj\Debug\UserControls\UpdateChosenSquare.baml
+F:\Licenta\BattleGame\BattleGame\obj\Debug\UserControls\UpdateChosenSquare.g.cs
+F:\Licenta\BattleGame\BattleGame\obj\Debug\UserControls\UpdateChosenSquare.baml
+F:\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame.csprojAssemblyReference.cache
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame.csprojAssemblyReference.cache
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\Game.g.cs
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\Instruction.g.cs
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\MainWindow.g.cs
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.g.cs
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\UserControls\UpdateChosenSquare.g.cs
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\App.g.cs
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.cache
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.lref
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame.exe
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame.pdb
+D:\TestG\Licenta\BattleGame\BattleGame\bin\Debug\BattleGame.exe.config
+D:\TestG\Licenta\BattleGame\BattleGame\bin\Debug\BattleGame.exe
+D:\TestG\Licenta\BattleGame\BattleGame\bin\Debug\BattleGame.pdb
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\Game.baml
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\Instruction.baml
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\MainWindow.baml
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.baml
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\UserControls\UpdateChosenSquare.baml
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame.g.resources
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame.Properties.Resources.resources
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.GenerateResource.cache
+D:\TestG\Licenta\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.CoreCompileInputs.cache
+D:\Licenta\Latest Version\BattleGame\BattleGame\bin\Debug\BattleGame.exe.config
+D:\Licenta\Latest Version\BattleGame\BattleGame\bin\Debug\BattleGame.exe
+D:\Licenta\Latest Version\BattleGame\BattleGame\bin\Debug\BattleGame.pdb
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\Game.g.cs
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\Instruction.g.cs
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\MainWindow.g.cs
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.g.cs
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\UserControls\UpdateChosenSquare.g.cs
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\App.g.cs
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.cache
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.lref
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\Game.baml
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\Instruction.baml
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\MainWindow.baml
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.baml
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\UserControls\UpdateChosenSquare.baml
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\BattleGame.g.resources
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\BattleGame.Properties.Resources.resources
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.GenerateResource.Cache
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.CoreCompileInputs.cache
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\BattleGame.exe
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\BattleGame.pdb
+D:\Licenta\Latest Version\BattleGame\BattleGame\obj\Debug\BattleGame.csprojResolveAssemblyReference.cache
+D:\VS2019 Projects\G\BattleGame\BattleGame\bin\Debug\BattleGame.exe.config
+D:\VS2019 Projects\G\BattleGame\BattleGame\bin\Debug\BattleGame.exe
+D:\VS2019 Projects\G\BattleGame\BattleGame\bin\Debug\BattleGame.pdb
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\BattleGame.csprojAssemblyReference.cache
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\Game.g.cs
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\Instruction.g.cs
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\MainWindow.g.cs
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.g.cs
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\UserControls\UpdateChosenSquare.g.cs
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\App.g.cs
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.cache
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.lref
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\Game.baml
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\Instruction.baml
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\MainWindow.baml
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.baml
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\UserControls\UpdateChosenSquare.baml
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\BattleGame.g.resources
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\BattleGame.Properties.Resources.resources
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.GenerateResource.cache
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.CoreCompileInputs.cache
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\BattleGame.exe
+D:\VS2019 Projects\G\BattleGame\BattleGame\obj\Debug\BattleGame.pdb
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\bin\Debug\BattleGame.exe.config
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\bin\Debug\BattleGame.exe
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\bin\Debug\BattleGame.pdb
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\BattleGame.csprojResolveAssemblyReference.cache
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\Game.g.cs
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\Instruction.g.cs
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\MainWindow.g.cs
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.g.cs
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\UserControls\UpdateChosenSquare.g.cs
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\App.g.cs
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.cache
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.lref
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\Game.baml
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\Instruction.baml
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\MainWindow.baml
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.baml
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\UserControls\UpdateChosenSquare.baml
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\BattleGame.g.resources
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\BattleGame.Properties.Resources.resources
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.GenerateResource.Cache
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.CoreCompileInputs.cache
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\BattleGame.exe
+D:\Licenta\Latest Version 1.2\BattleGame\BattleGame\obj\Debug\BattleGame.pdb
+D:\Licenta\latestversion\BattleGame\BattleGame\bin\Debug\BattleGame.exe.config
+D:\Licenta\latestversion\BattleGame\BattleGame\bin\Debug\BattleGame.exe
+D:\Licenta\latestversion\BattleGame\BattleGame\bin\Debug\BattleGame.pdb
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\MainGameWindow.g.cs
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\LobbyGameWindow.g.cs
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.g.cs
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\App.g.cs
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.cache
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.lref
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\MainGameWindow.baml
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\LobbyGameWindow.baml
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.baml
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\BattleGame.g.resources
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\BattleGame.Properties.Resources.resources
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.GenerateResource.Cache
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.CoreCompileInputs.cache
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\BattleGame.exe
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\BattleGame.pdb
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\BattleGame.csprojResolveAssemblyReference.cache
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\InstructionGamePage\InstructionGameWindow.g.cs
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\InstructionGamePage\InstructionGameWindow.baml
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\AboutWindow.g.cs
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\AboutWindow.baml
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\UserControls\UpdateSquareUserControl.g.cs
+D:\Licenta\latestversion\BattleGame\BattleGame\obj\Debug\UserControls\UpdateSquareUserControl.baml
+F:\BociocLaurian\BattleGame\BattleGame\bin\Debug\BattleGame.exe.config
+F:\BociocLaurian\BattleGame\BattleGame\bin\Debug\BattleGame.exe
+F:\BociocLaurian\BattleGame\BattleGame\bin\Debug\BattleGame.pdb
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame.csprojResolveAssemblyReference.cache
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\AboutWindow.g.cs
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\InstructionGamePage\InstructionGameWindow.g.cs
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\MainGameWindow.g.cs
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\LobbyGameWindow.g.cs
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.g.cs
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\UserControls\UpdateSquareUserControl.g.cs
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\App.g.cs
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.cache
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.lref
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\AboutWindow.baml
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\InstructionGamePage\InstructionGameWindow.baml
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\MainGameWindow.baml
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\LobbyGameWindow.baml
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.baml
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\UserControls\UpdateSquareUserControl.baml
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame.g.resources
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame.Properties.Resources.resources
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.GenerateResource.Cache
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.CoreCompileInputs.cache
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame.exe
+F:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame.pdb
+E:\BociocLaurian\BattleGame\BattleGame\bin\Debug\BattleGame.exe.config
+E:\BociocLaurian\BattleGame\BattleGame\bin\Debug\BattleGame.exe
+E:\BociocLaurian\BattleGame\BattleGame\bin\Debug\BattleGame.pdb
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame.csprojAssemblyReference.cache
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\AboutWindow.g.cs
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\InstructionGamePage\InstructionGameWindow.g.cs
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\MainGameWindow.g.cs
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\LobbyGameWindow.g.cs
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.g.cs
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\UserControls\UpdateSquareUserControl.g.cs
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\App.g.cs
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.cache
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame_MarkupCompile.lref
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\AboutWindow.baml
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\InstructionGamePage\InstructionGameWindow.baml
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\MainGameWindow.baml
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\LobbyGameWindow.baml
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\UserControls\SquareUserControl.baml
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\UserControls\UpdateSquareUserControl.baml
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame.g.resources
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame.Properties.Resources.resources
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.GenerateResource.cache
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame.csproj.CoreCompileInputs.cache
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame.exe
+E:\BociocLaurian\BattleGame\BattleGame\obj\Debug\BattleGame.pdb

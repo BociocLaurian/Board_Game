@@ -1,0 +1,9 @@
+redSide fire img       https://www.pexels.com/photo/fire-orange-emergency-burning-1749/
+
+blueSide ice img       https://www.pexels.com/photo/background-close-up-cold-freeze-1451484/
+
+lobbyBkg               https://www.pexels.com/photo/black-and-white-diamond-shape-wallpaper-1070345/
+
+game bkg               https://www.pexels.com/photo/gray-and-beige-paper-2268514/
+
+instrBkg               https://www.pexels.com/photo/white-cube-ceiling-2102850/
